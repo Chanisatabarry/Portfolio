@@ -1,0 +1,16 @@
+[
+  {
+    "title": "First Project",
+    "imageSrc": "projects/code.jpg",
+    "description": "This is a project started from studying Flutter. Created using the Dart language.",
+    "skills": ["Flutter", "Dart"]
+
+  },
+  {
+    "title": "Second Project",
+    "imageSrc": "projects/project.jpg",
+    "description": "This is my undergraduate thesis project, which involves developing an application to compare product prices across different stores. It also utilizes the Longdo Map API.",
+    "skills": ["Flutter", "Dart","Longdo Map API","Web scraping","Amazon web services "]
+
+  }
+]

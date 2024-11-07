@@ -1,0 +1,30 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "Github Desktop",
+    "imageSrc": "skills/G.PNG"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "skills/T.PNG"
+  },
+  {
+    "title": "Flutter",
+    "imageSrc": "skills/F.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  }
+]
